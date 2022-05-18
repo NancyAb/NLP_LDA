@@ -316,7 +316,7 @@ def main():
     
     text_physical = 'Why or why not?'
     text_mental = 'Why or why not?.1'
-    health_file = "data\\mental-heath-in-tech-2016_20161114.csv"
+    health_file = "mental-heath-in-tech-2016_20161114.csv"
      
     df_all_data = pd.read_csv(health_file)
     
