@@ -9,4 +9,3 @@ This uses the kaggle sample data set from a mental health survey: https://www.ka
 Several parameters and data filtering can be modified to tune for your data set.
 
 One is the number of topics.
-
